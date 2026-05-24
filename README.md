@@ -9,7 +9,7 @@
     ╚═╝    ╚═════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=PLAYER+1+READY...;Senior+Penetration+Tester;Red+Team+Operator;Offensive+Security+Specialist;OSCP+%7C+CRTO2+(WIP)+%7C+CAPE+(WIP)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=PLAYER+1+READY...;Senior+Penetration+Tester;Red+Team+Operator;Offensive+Security+Specialist;OSCP+%7C+CRTO+(WIP)+%7C+CAPE+(WIP)" alt="Typing SVG" />
 
 </div>
 
@@ -108,11 +108,11 @@ $ whoami
 ╠══════════════════════════════════════════════════════════════╣
 ║  🏆 PT1          ████████████████████ COMPLETE    Lv.MAX    ║
 ╠══════════════════════════════════════════════════════════════╣
-║  🎖️ CRTO2        ████████████░░░░░░░░ IN PROGRESS  EXP →    ║
+║  🎖️ CRTO        ████████████░░░░░░░░ IN PROGRESS  EXP →    ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  🎖️ HTB CAPE     ██████████░░░░░░░░░░ IN PROGRESS  EXP →    ║
 ╠══════════════════════════════════════════════════════════════╣
-║  🔒 OSEP          [???] LOCKED    —  Requires CRTO2        ║
+║  🔒 OSEP          [???] LOCKED    —  Requires CRTO        ║
 ║  🔒 OSWE          [???] LOCKED    —  Requires more XP      ║
 ║  🔒 CRTL          [???] LOCKED    —  Secret achievement    ║
 ╚══════════════════════════════════════════════════════════════╝
