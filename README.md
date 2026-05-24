@@ -20,7 +20,7 @@
 ```bash
 $ whoami
 > Senior Penetration Tester | Red Team Operator | Offensive Security Specialist
-> OSCP Certified | Guest Lecturer @ HackTrace | Based in 🇮🇩 Indonesia
+> OSCP Certified | Guest Lecturer @ Universitas Jember, UI, ITDel, Sekolah Citabuana | Based in 🇮🇩 Indonesia
 > CTF Hobbyist | Bug Bounty Hunter | Rust & Malware Dev Enthusiast
 ```
 
@@ -50,7 +50,7 @@ $ whoami
 | 🔓 Design expert-level Boot2Root CTF challenges (retro 8-bit aesthetic) | `IN PROGRESS` | ⭐⭐⭐⭐⭐ Legendary |
 | 🦀 Build Rust-based PE packer with novel cryptography | `IN PROGRESS` | ⭐⭐⭐⭐⭐ Legendary |
 | 🏛️ Develop CTF platform & challenge repository | `EARLY STAGE` | ⭐⭐⭐⭐☆ Epic |
-| 📜 Create SOP documents for ISO27001 compliance | `IN PROGRESS` | ⭐⭐⭐☆☆ Rare |
+| 🏗️ Build custom CTF platform & challenge repository | `EARLY STAGE` | ⭐⭐⭐⭐☆ Epic |
 | ⚛️ Research quantum cryptography challenges | `RESEARCHING` | ⭐⭐⭐⭐⭐ Legendary |
 | 🤖 Forge AI Skill using Claude Code | `🔨 IN PROGRESS` | ⭐⭐⭐⭐☆ Epic |
 
@@ -63,11 +63,11 @@ $ whoami
 | # | Repository | Why Pin It |
 |---|-----------|------------|
 | 1 | **`y0xhz/y0xhz`** | The player profile — this README is the character select screen |
-| 2 | **`y0xhz/TrendRadar`** | AI-powered intel aggregator — my latest engineered tool |
-| 3 | **`y0xhz/Obsidian-OSCP-Notes`** | Knowledge base — proof of structured learning & teaching |
-| 4 | **`y0xhz/ESP32-EvilTwin`** | Offensive wireless — initial access & hardware hacking |
-| 5 | **`rust-pe-packer`** *(coming soon)* | Custom malware dev, EDR evasion, novel cryptography |
-| 6 | **`ctf-platform`** *(coming soon)* | Boot2Root challenges — retro game aesthetic, 12-hour labs |
+| 2 | **`y0xhz/Obsidian-OSCP-Notes`** | Knowledge base — proof of structured learning & teaching |
+| 3 | **`y0xhz/ESP32-EvilTwin`** | Offensive wireless — initial access & hardware hacking |
+| 4 | **`rust-pe-packer`** *(coming soon)* | Custom Rust PE packer with novel cryptography — malware dev & EDR evasion |
+| 5 | **`ctf-platform`** *(coming soon)* | Boot2Root challenges — retro game aesthetic, 12-hour labs |
+| 6 | *`Reserved`* | Slot open for future offensive security project release |
 
 ---
 
@@ -126,8 +126,8 @@ $ whoami
 ```
 [2026-05-24] 🔨 QUEST IN PROGRESS — Forging AI Skill using Claude Code
 [2026-05-20] 🗡️  ITEM CRAFTED — Updated Rust PE packer crypto module
-[2026-05-15] 📜 SCROLL FOUND — Drafted ISO27001 SOP framework v1.0
-[2026-05-10] ⚔️  BOSS BATTLE — Delivered guest lecture @ HackTrace
+[2026-05-15] 📜 SCROLL FOUND — Drafted CTF challenge architecture v1.0
+[2026-05-10] ⚔️  BOSS BATTLE — Delivered guest lecture @ Universitas Indonesia
 [2026-05-01] 🧪 POTION BREWED — Designed CTF challenge architecture
 [2026-04-20] ☁️  DUNGEON CLEARED — AWS cloud pentest engagement wrapped
 ```
@@ -138,8 +138,6 @@ $ whoami
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0055?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/y0xhz)
 [![Hackthebox](https://img.shields.io/badge/Hackthebox-00FF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/y0xhz)
-[![CTFtime](https://img.shields.io/badge/CTFtime-00FFFF?style=for-the-badge&logo=ctf&logoColor=black)](https://ctftime.org/user/y0xhz)
-[![HackerOne](https://img.shields.io/badge/HackerOne-FF6600?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/y0xhz)
 [![HackTrace](https://img.shields.io/badge/HackTrace-FF00FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiLz4=&logoColor=white)](https://hacktrace.id)
 [![Email](https://img.shields.io/badge/Email-FFFF00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:yokhanalam@gmail.com)
 
