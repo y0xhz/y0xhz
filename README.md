@@ -52,7 +52,7 @@ $ whoami
 | 🏛️ Develop CTF platform & challenge repository | `EARLY STAGE` | ⭐⭐⭐⭐☆ Epic |
 | 📜 Create SOP documents for ISO27001 compliance | `IN PROGRESS` | ⭐⭐⭐☆☆ Rare |
 | ⚛️ Research quantum cryptography challenges | `RESEARCHING` | ⭐⭐⭐⭐⭐ Legendary |
-| 🤖 Forge AI Skill using Claude Code | `✅ COMPLETED` | ⭐⭐⭐⭐☆ Epic |
+| 🤖 Forge AI Skill using Claude Code | `🔨 IN PROGRESS` | ⭐⭐⭐⭐☆ Epic |
 
 ---
 
@@ -122,7 +122,7 @@ $ whoami
 ## 📜 QUEST LOG (Latest Activity)
 
 ```
-[2026-05-24] ✅ QUEST COMPLETE — Forged AI Skill using Claude Code
+[2026-05-24] 🔨 QUEST IN PROGRESS — Forging AI Skill using Claude Code
 [2026-05-20] 🗡️  ITEM CRAFTED — Updated Rust PE packer crypto module
 [2026-05-15] 📜 SCROLL FOUND — Drafted ISO27001 SOP framework v1.0
 [2026-05-10] ⚔️  BOSS BATTLE — Delivered guest lecture @ HackTrace
@@ -135,7 +135,7 @@ $ whoami
 ## 🌐 WARP POINTS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0055?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/y0xhz)
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-00FF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/y0xhz)
+[![Hackthebox](https://img.shields.io/badge/Hackthebox-00FF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/y0xhz)
 [![CTFtime](https://img.shields.io/badge/CTFtime-00FFFF?style=for-the-badge&logo=ctf&logoColor=black)](https://ctftime.org/user/y0xhz)
 [![HackerOne](https://img.shields.io/badge/HackerOne-FF6600?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/y0xhz)
 [![HackTrace](https://img.shields.io/badge/HackTrace-FF00FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiLz4=&logoColor=white)](https://hacktrace.id)
