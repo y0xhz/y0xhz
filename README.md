@@ -51,7 +51,6 @@ $ whoami
 | 🦀 Build Rust-based PE packer with novel cryptography | `IN PROGRESS` | ⭐⭐⭐⭐⭐ Legendary |
 | 🏛️ Develop CTF platform & challenge repository | `EARLY STAGE` | ⭐⭐⭐⭐☆ Epic |
 | 🏗️ Build custom CTF platform & challenge repository | `EARLY STAGE` | ⭐⭐⭐⭐☆ Epic |
-| ⚛️ Research quantum cryptography challenges | `RESEARCHING` | ⭐⭐⭐⭐⭐ Legendary |
 | 🤖 Forge AI Skill using Claude Code | `🔨 IN PROGRESS` | ⭐⭐⭐⭐☆ Epic |
 
 ---
